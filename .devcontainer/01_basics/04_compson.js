@@ -10,4 +10,4 @@ console.log(undefined > 0)
 console.log(undefined < 0)
 
 // === strict equality checks value and type
-console.log("3" === 3)
+console.log("3" === 3)// True or false
