@@ -1,9 +1,8 @@
 // Immediately Invoked Function Expressions (IIFE)
-
-// function namaste() {
-//     console.log(`Namaste User`);
-// }
-// namaste();
+ function namaste() {
+     console.log(`Namaste User`);
+ }
+ namaste();
 
 // named IIFE
 // (function namaste() {
