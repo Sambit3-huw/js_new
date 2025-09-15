@@ -11,5 +11,5 @@
 
 // unnamed IIFE
 ((name) => {
-    console.log(`Namaste ${name}`);
+    console.log("Namaste is "+name);
 })('Chiranjeev');
